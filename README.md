@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @sztyberj
-- 🌱 I’m currently learning Machine Learning, SQL, Azure
+- 🌱 I’m currently learning Machine Learning, SQL, Data Visualization Tools (PowerBI, Tableau)
 - 📫 How to reach me? Send e-mail to me on jakub.sztyber.97@gmail.com
