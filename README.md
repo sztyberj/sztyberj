@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=sztyberj&color=90B1D6&style=flat)
 
 # ✋Hello!
-Main name is Jakub Sztyber and I'm a Junior Data Analyst. I'm currently working as SysAdmin in [Bank Ochrony Środowiska S.A](https://www.bosbank.pl/klient-indywidualny).
+My name is Jakub Sztyber and I'm a Junior Data Analyst. I'm currently working as SysAdmin in [Bank Ochrony Środowiska S.A](https://www.bosbank.pl/klient-indywidualny).
 </br>I'm studying Computer Science (Data Science) at [Warsaw School of Computer Science](https://wscs.eu/).
 I am from Poland and live in Warsaw.
 </br></br>
