@@ -34,8 +34,5 @@ I am from Poland and live in Warsaw.
 ## 🎯My Projects
 
 - [🏘️Prices of apartments in Poland](https://github.com/sztyberj/ApartmentsPricesInPoland)
-- [🕹️Prices of games in Polish online stores](https://github.com/sztyberj/GamesInPolishOnlineShops)
+- [🕹️Prices of games in Polish online stores](https://github.com/sztyberj/GamesInPolishOnlineStores)
 - [💡Visible Spectrum](https://github.com/sztyberj/VisibleSpectrum-DataVisualization)
-
-## 📊GitHub Stats
-</br>![Jakub's GitHub stats](https://github-readme-stats.vercel.app/api?username=sztyberj&show_icons=true&theme=tokyonight)
