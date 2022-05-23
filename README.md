@@ -33,6 +33,7 @@ I am from Poland and live in Warsaw.
 
 ## 🎯My Projects
 
+- [🔴Pokedex in PowerBI](https://github.com/sztyberj/PowerPokedex)
 - [🏘️Prices of apartments in Poland](https://github.com/sztyberj/ApartmentsPricesInPoland)
 - [🕹️Prices of games in Polish online stores](https://github.com/sztyberj/GamesInPolishOnlineStores)
 - [💡Visible Spectrum](https://github.com/sztyberj/VisibleSpectrum-DataVisualization)
