@@ -1,4 +1,4 @@
-[comment]: <[![Header](https://user-images.githubusercontent.com/54943867/167251232-e5d000d4-df07-4dbd-926b-9d2a4c062268.png)](https://www.linkedin.com/in/jakubsztyber/)>
+<[![Header](https://user-images.githubusercontent.com/54943867/167251232-e5d000d4-df07-4dbd-926b-9d2a4c062268.png)](https://www.linkedin.com/in/jakubsztyber/)>
 
 ![](https://komarev.com/ghpvc/?username=sztyberj&color=90B1D6&style=flat)
 
