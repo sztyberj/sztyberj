@@ -7,7 +7,7 @@ My name is Jakub Sztyber. I'm currently working as RPA Developer in [Bank Ochron
 </br>I'm studying Computer Science (Data Science) at [Warsaw School of Computer Science](https://wscs.eu/).
 I am from Poland and live in Warsaw.
 </br></br>
-I'm open to your job offer. Send me an email: jakub.sztyber.97@gmail.com
+
 
 ## 🧰Technologies and Tools
 
