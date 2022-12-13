@@ -11,7 +11,7 @@ I'm open to your job offer. Send me an email: jakub.sztyber.97@gmail.com
 
 ## 🧰Technologies and Tools
 
--UiPath
+- UiPath
 - Python
   - Pandas
   - Matplotlib
