@@ -4,7 +4,7 @@
 
 # ✋Hello!
 My name is Jakub Sztyber. I'm currently working as RPA Developer in [Bank Ochrony Środowiska S.A](https://www.bosbank.pl/klient-indywidualny).
-</br>I'm studying Computer Science (Data Science) at [Warsaw School of Computer Science](https://wscs.eu/).
+</br>I am a graduate Computer Science (Data Science) at [Warsaw School of Computer Science](https://wscs.eu/).
 I am from Poland and live in Warsaw.
 </br></br>
 
