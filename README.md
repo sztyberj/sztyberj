@@ -59,70 +59,69 @@ I am an **Automation & AI Engineer** with a strong foundation in RPA and a passi
 
 ---
 
-### 🎯 My Projects
-
+🎯 My Projects
 <table>
   <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📜 IncunabuLM</h3>
+      <div align="center">
+        <a href="https://github.com/sztyberj/IncunabuLM" target="_blank">
+          <img width="400" alt="IncunabuLM Project" src="https://github.com/user-attachments/assets/ae2f11d4-b783-4eb7-8715-a71f5ed7bdd5" />
+        </a>
+        <br><br>
+        <a href="https://github.com/sztyberj/IncunabuLM" target="_blank">
+          <img src="https://img.shields.io/badge/Repo-gray?style=for-the-badge&logo=github">
+        </a>
+        <br><br>
+        <p>A small, decoder-only language model trained on Polish lectures and fine-tuned for generating poetry in the style of Old Polish.</p>
+        <p><strong>Technologies:</strong> PyTorch, Streamlit, Jupyter</p>
+      </div>
+    </td>
     <td width="50%" valign="top">
       <h3 align="center">🏘️ Real Estate Price Prediction</h3>
       <div align="center">
         <a href="https://github.com/sztyberj/Real-Estate-Price-Prediction" target="_blank">
-          <img src="link_do_twojego_gifa_lub_obrazka1.gif" alt="Project GIF or Image">
+          <img width="400" alt="Real Estate Price Prediction" src="https://github.com/user-attachments/assets/02784929-4726-4a52-abfd-d086f3d01b22" />
         </a>
-        <p>
-          <a href="https://github.com/sztyberj/Real-Estate-Price-Prediction" target="_blank">
-            <img src="https://img.shields.io/badge/Repo-gray?style=for-the-badge&logo=github">
-          </a>
-        </p>
+        <br><br>
+        <a href="https://github.com/sztyberj/Real-Estate-Price-Prediction" target="_blank">
+          <img src="https://img.shields.io/badge/Repo-gray?style=for-the-badge&logo=github">
+        </a>
+        <br><br>
         <p>A machine learning model for predicting real estate prices, utilizing advanced regression and data analysis techniques.</p>
         <p><strong>Technologies:</strong> Scikit-learn, Pandas, Jupyter</p>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🔴 PowerPokedex</h3>
-      <div align="center">
-        <a href="https://github.com/sztyberj/PowerPokedex" target="_blank">
-          <img src="link_do_twojego_gifa_lub_obrazka2.gif" alt="Project GIF or Image">
-        </a>
-        <p>
-          <a href="https://github.com/sztyberj/PowerPokedex" target="_blank">
-            <img src="https://img.shields.io/badge/Repo-gray?style=for-the-badge&logo=github">
-          </a>
-        </p>
-        <p>An interactive Pokedex built in Power BI that fetches and visualizes data about Pokémon.</p>
-        <p><strong>Technologies:</strong> Power BI</p>
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🌼 Vanilla-ML</h3>
+      <h3 align="center">🔴 PowerPokedex</h3>
       <div align="center">
-        <a href="https://github.com/sztyberj/vanilla-ml" target="_blank">
-          <img src="link_do_twojego_gifa_lub_obrazka3.gif" alt="Project GIF or Image">
+        <a href="https://github.com/sztyberj/PowerPokedex" target="_blank">
+          <img width="400" alt="PowerPokedex Project" src="https://github.com/user-attachments/assets/a7faadb0-3fb1-4dbb-b90c-f6efeeb96fda" />
         </a>
-        <p>
-          <a href="https://github.com/sztyberj/vanilla-ml" target="_blank">
-            <img src="https://img.shields.io/badge/Repo-gray?style=for-the-badge&logo=github">
-          </a>
-        </p>
-        <p>Implementation of machine learning algorithms from scratch without using high-level libraries to understand their core mechanics.</p>
-        <p><strong>Technologies:</strong> Python, NumPy</p>
+        <br><br>
+        <a href="https://github.com/sztyberj/PowerPokedex" target="_blank">
+          <img src="https://img.shields.io/badge/Repo-gray?style=for-the-badge&logo=github">
+        </a>
+        <br><br>
+        <p>An interactive Pokedex built in Power BI that fetches and visualizes data about Pokémon.</p>
+        <p><strong>Technologies:</strong> Power BI</p>
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">💡 Visible Spectrum</h3>
+      <h3 align="center">🌼 Vanilla-ML</h3>
       <div align="center">
-        <a href="https://github.com/sztyberj/VisibleSpectrum-DataVisualization" target="_blank">
-          <img src="link_do_twojego_gifa_lub_obrazka4.gif" alt="Project GIF or Image">
+        <a href="https://github.com/sztyberj/vanilla-ml" target="_blank">
+          <img width="400" alt="Vanilla-ML Project" src="https://github.com/user-attachments/assets/54ecb05b-8e67-4410-9b09-28ba555acfa0" />
         </a>
-        <p>
-          <a href="https://github.com/sztyberj/VisibleSpectrum-DataVisualization" target="_blank">
-            <img src="https://img.shields.io/badge/Repo-gray?style=for-the-badge&logo=github">
-          </a>
-        </p>
-        <p>A data visualization project that explores and represents the visible light spectrum using creative charting techniques.</p>
-        <p><strong>Technologies:</strong> Python, Matplotlib, Seaborn</p>
+        <br><br>
+        <a href="https://github.com/sztyberj/vanilla-ml" target="_blank">
+          <img src="https://img.shields.io/badge/Repo-gray?style=for-the-badge&logo=github">
+        </a>
+        <br><br>
+        <p>Implementation of machine learning algorithms from scratch without using high-level libraries to understand their core mechanics.</p>
+        <p><strong>Technologies:</strong> Python, NumPy</p>
       </div>
     </td>
   </tr>
