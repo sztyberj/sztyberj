@@ -1,4 +1,10 @@
 <div align="center">
+
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:6366F1&height=200&section=header&text=Jakub%20Sztyber&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=Data%20Scientist%20&descColor=FFFFFF&descAlignY=60&animation=fadeIn)
+
+</div>
+
+<div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=90B1D6&center=true&vCenter=true&width=450&lines=Hi+there%2C+I'm+Jakub!+%F0%9F%91%8B;Data+Scientist;Machine+Learning+Engineer" alt="Typing SVG" /></a>
 </div>
 
@@ -123,4 +129,11 @@ I am a **Data Scientist** and **Machine Learning Engineer** with a unique backgr
   <h3>Let's Connect!</h3>
   <a href="mailto:jakub.sztyber.97@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://www.linkedin.com/in/jakubsztyber/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</div>
+
+
+<div align="center">
+
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:3B82F6&height=120&section=footer)
+
 </div>
